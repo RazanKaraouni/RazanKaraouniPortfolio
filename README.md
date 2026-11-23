@@ -16,7 +16,6 @@ Open `index.html` in a browser. No build step.
 | `img/` | Project and certificate images |
 | `_headers` | Security headers for Netlify or Cloudflare Pages (GitHub Pages ignores it) |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
-| `SECURITY-CHECKLIST.md` | The filled-in security testing checklist |
 
 ## Images
 
